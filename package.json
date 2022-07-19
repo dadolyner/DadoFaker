@@ -1,6 +1,6 @@
 {
   "name": "@dadolyner/faker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Package for generating fake data",
   "main": "DadoFaker.ts",
   "scripts": {

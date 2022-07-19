@@ -1,4 +1,4 @@
-# Package that create fake data
+# Package that generate fake data
 
 ### Description
 This package create fake data for testing and it is fully async.
